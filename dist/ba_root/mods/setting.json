@@ -1,6 +1,6 @@
 {
-    "paidCommands": false,
-    "JoinClaim": false,
+    "paidCommands": true,
+    "JoinClaim": true,
     "NotifyPlayer": false,
     "compChatText": false,
     "NightMode": false,
@@ -33,7 +33,7 @@
         "SnowScale": 0.5
     },
     "JoiningFast": {
-        "enable": true,
+        "enable": false,
         "JoiningCount": 6
     },
     "ChatCommands": {
@@ -58,8 +58,8 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048WELCOME TO VORTEX VS HONOR OFFICIAL\ue048",
-                "\ue043JOIN OUR DISCORD : VH PARADISE :)\ue043",
+                "\ue048Welcome to Tamil Rockers\ue048",
+                "\ue043JOIN OUR DISCORD Through STATS:)\ue043",
                 "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
                 "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
                 "\ue048TYPE (/coinhelp) TO KNOW HOW TO BUY EFFECTS AND MANY MORE..\ue048",
@@ -90,7 +90,7 @@
             "type (/cs) to find out how to complaint in discord server from game",
             "type (/coinhelp) to know how to buy effects and many more..",
             "type (/dclink) to know how to link pbid to discord-id & get rewards",
-            "join our discord : vh paradise :)",
+            "join our discord :)",
             "type vp to know voting playlist",
             "please respect other players :)",
             "start msg with prefix .(dot) to send in game popup msg",
@@ -104,12 +104,9 @@
     "TopMapText": {
         "enable": true,
         "msg": [
-            "\ue062VORTEX\ue062",
-            "\ue04bVORTEX x HONOR\ue04b",
-            "\ue048HONOR\ue048",
-            "\ue04bVORTEX x HONOR\ue04b",
-            "\ue062VORTEX\ue062",
-            "\ue048HONOR\ue048"
+            "\ue062GT and PRIME\ue062",
+            "\ue04bTAMIL  ROCKERS\ue04b",
+            "\ue048Join Discord\ue048"
         ]
     },
     "statsResetAfterDays": 45,
@@ -118,18 +115,18 @@
         "barsBehindName": true
     },
     "autoNightMode": {
-        "enable": true,
+        "enable": false,
         "startTime": "18:30",
         "endTime": "06:30",
         "Snowfall": true,
-        "colorfullMap": true,
+        "colorfullMap": false,
         "colorful_explosions": true,
         "fireflies": false,
         "fireflies_random_color": false
     },
     "colorfullMap": false,
     "playlists": {
-        "team": 12345,
+        "team": 488652,
         "epicteams": 442578,
         "ffa": 412175,
         "elim": 412172,
@@ -146,7 +143,7 @@
         "enable": false
     },
     "timetext": {
-        "enable": true,
+        "enable": false,
         "timezone": "Asia/Kolkata"
     },
     "colorful_explosions": {
@@ -176,7 +173,7 @@
             "Powerup Scale": 1.0,
             "Powerup Name": true,
             "Powerup With Shield": false,
-            "Powerup Time": true,
+            "Powerup Time": false,
             "Powerups": {
                 "Shield": 0,
                 "Punch": 0,
@@ -185,23 +182,23 @@
                 "Ice Bombs": 3,
                 "Triple": 3,
                 "Sticky Bombs": 3,
-                "Curse": 1,
-                "Health": 1,
-                "Speed": 2,
+                "Curse": 0,
+                "Health": 3,
+                "Speed": 1,
                 "Healing Damage": 0,
-                "Goodbye": 2,
-                "Ice Man": 1,
+                "Goodbye": 0,
+                "Ice Man": 0,
                 "Tank Shield": 0,
-                "Impairment Bombs": 2,
-                "Fire Bombs": 3,
+                "Impairment Bombs": 0,
+                "Fire Bombs": 0,
                 "Champion": 0,
                 "Spunch": 0,
                 "Radius": 0,
                 "Multi Bomb": 0,
                 "PWP": 0,
-                "ExtraLyfe": 2,
+                "ExtraLyfe": 0,
                 "False Bombs": 0,
-                "Fly Bombs": 2
+                "Fly Bombs": 0
             }
         },
         "Quantity": {
@@ -212,58 +209,58 @@
             "Ice Bombs": 3,
             "Triple": 3,
             "Sticky Bombs": 3,
-            "Curse": 1,
-            "Health": 1,
-            "Speed": 2,
+            "Curse": 0,
+            "Health": 3,
+            "Speed": 1,
             "Healing Damage": 0,
-            "Goodbye": 2,
-            "Ice Man": 1,
+            "Goodbye": 0,
+            "Ice Man": 0,
             "Tank Shield": 0,
-            "Impairment Bombs": 2,
-            "Fire Bombs": 3,
+            "Impairment Bombs": 0,
+            "Fire Bombs": 0,
             "Champion": 0,
             "Spunch": 0,
             "Radius": 0,
             "Multi Bomb": 0,
             "PWP": 0,
-            "ExtraLyfe": 2,
+            "ExtraLyfe": 0,
             "False Bombs": 0,
-            "Fly Bombs": 2
+            "Fly Bombs": 0
         }
     },
     "discordbot": {
-        "enable": false,
-        "database_name": "default",
-        "token": "<bot-token-here>",
+        "enable": true,
+        "database_name": "<default>",
+        "token": "",
+
         "liveChat": true,
-        "liveStatsChannelID": 1237851459899625512,
-        "logsChannelID": 1177676398803034153,
-        "complaintChannelID": "<complaint_channel_id>",
-        "notifyChannelID": "<notify_channel_id>",
+        "liveStatsChannelID": 1047206811335393355,
+        "logsChannelID": 1306280167135514718,
+        "complaintChannelID": 1047206811335393351,
+        "notifyChannelID": 1047206811335393351,
         "whitelisted_servers": [
-            803681951109873724
+            1047206810161008710
         ],
         "allowed_user_ids": [
-            803681951109873724,
-            856735876423483454
+            932979337328726017
         ],
-        "bot_prefix": "<bot-prefix-here>",
-        "commands_prefix": "<command-prefix-here>",
-        "complaint_role": "<complaint_role_id_here>",
-        "notify_role": "<notify_role_id_here>"
+        "bot_prefix": "B!",
+        "commands_prefix": "C!",
+        "complaint_role": 1047206810173575173,
+        "notify_role": 1047206810173575173
     },
     "autoadmin": {
-        "enable": false,
+        "enable": true,
         "top_rank_count": 50,
         "admin_rank": [
             1
         ],
-        "score_for_admin": 40000,
+        "score_for_admin": 20000,
         "vip_rank": [
             2,
             3
         ],
-        "score_for_vip": 30000
+        "score_for_vip": 10000
     },
     "CurrencyType": {
         "CurrencyName": "tickets",
@@ -276,11 +273,11 @@
         "ExpriyPaideffectTime": "1"
     },
     "discordWebHook": {
-        "enable": false,
-        "webhookURL": "https://discord.com/api/webhooks/82649239/e7s0zyBJIuczXL7_CGSO5WM"
+        "enable": true,
+        "webhookURL": "https://discord.com/api/webhooks/1313490835563876372/kJ-e01inn90QPThVB5WTjZurol8ryc50MYP2UqyuGKsZvXnncUZLFQ0LyzbhnOxQ_fXI"
     },
     "afk_remover": {
-        "enable": true,
+        "enable": false,
         "ingame_idle_time_in_secs": 250,
         "kick_idle_from_lobby": true,
         "lobby_idle_time_in_secs": 150
@@ -294,7 +291,7 @@
     "betrayerSystem": {
         "enable": true,
         "betrayWarnCooldownMinutes": 5,
-        "maxWarnCount": 5,
+        "maxWarnCount": 4,
         "afterBetrayWarnKickMsg": "You have been kicked for betraying your team!",
         "betraywarnMsg": "Warning: Betraying your teammates is not allowed!"
     },
@@ -305,12 +302,12 @@
     "allowInGameDm": true,
     "newResultBoard": true,
     "HostDeviceName": "v1.4",
-    "HostName": "VH-v2.0",
+    "HostName": "PS-v2.0",
     "ShowKickVoteStarterName": true,
     "autoTeamBalance": true,
     "KickVoteMsgType": "chat",
-    "minAgeToChatInHours": 78,
-    "minAgeToJoinInHours": 120,
+    "minAgeToChatInHours": 48,
+    "minAgeToJoinInHours": 48,
     "maxWarnCount": 2,
     "WarnCooldownMinutes": 30,
     "ComplainterExpired": true,
@@ -319,15 +316,15 @@
     "maxPlayersPerDevice": 2,
     "warnMsg": "WARNING !!! DONT DO AGAIN! :)",
     "afterWarnKickMsg": "Enough warnings, Goodbye have a nice day :)",
-    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to the vh paradise bang\ud83c\udf1f",
-    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to vh paradise bang\ud83d\udc4b",
+    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to our server\ud83c\udf1f",
+    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to TAMIL ROCKERS\ud83d\udc4b",
     "contributeData": true,
     "enabletags": true,
     "enablehptag": true,
     "enablerank": true,
     "enablestats": true,
-    "enableOldHitTexts": true,
-    "enableNewHitTexts": true,
+    "enableOldHitTexts": false,
+    "enableNewHitTexts": false,
     "enableeffects": true,
     "ShiningPlayers": true,
     "enableTop5effects": true,
