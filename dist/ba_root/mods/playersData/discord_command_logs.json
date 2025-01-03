@@ -4,5 +4,179 @@
         "user_name": "vortex_",
         "command": "v!sc",
         "timestamp": "2024-03-11 06:10:39"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".",
+        "timestamp": "2024-12-05 18:46:31"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".cs",
+        "timestamp": "2024-12-05 18:46:38"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".help",
+        "timestamp": "2024-12-05 18:46:41"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".",
+        "timestamp": "2024-12-05 18:49:14"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".help",
+        "timestamp": "2024-12-05 18:49:29"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".cs",
+        "timestamp": "2024-12-06 12:28:48"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".help",
+        "timestamp": "2024-12-06 12:28:59"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": ".help",
+        "timestamp": "2024-12-07 14:33:23"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!help",
+        "timestamp": "2024-12-07 14:39:11"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!roleslc",
+        "timestamp": "2024-12-07 14:40:50"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!restart",
+        "timestamp": "2024-12-07 14:43:15"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!quit",
+        "timestamp": "2024-12-07 14:43:33"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!cs",
+        "timestamp": "2024-12-11 14:03:20"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!help",
+        "timestamp": "2024-12-11 14:03:29"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!kick pb-IF4dUHY_Mw==",
+        "timestamp": "2024-12-11 14:04:07"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!list",
+        "timestamp": "2024-12-11 14:04:22"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!cs",
+        "timestamp": "2024-12-11 15:29:01"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!unban pb-IF4jU3dbLQ==",
+        "timestamp": "2024-12-12 09:47:34"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!ban",
+        "timestamp": "2024-12-12 09:48:13"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!bsunban pb-IF4jU3dbLQ==",
+        "timestamp": "2024-12-12 09:48:52"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!bsunban pb-IF4jU3dbLQ==",
+        "timestamp": "2024-12-12 09:49:37"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!bsban pb-IF4dUHY_Mw== e3da609a38b6da9205648828fe0e6cb99eaabc31 azj~z`~zn~}jg",
+        "timestamp": "2024-12-14 12:18:30"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!",
+        "timestamp": "2024-12-14 12:19:02"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!help",
+        "timestamp": "2024-12-14 12:19:24"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!mute",
+        "timestamp": "2024-12-14 12:20:30"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!bsunban pb-IF4dUHY_Mw== e3da609a38b6da9205648828fe0e6cb99eaabc31 azj~z`~zn~}jg",
+        "timestamp": "2024-12-15 03:12:07"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!bsunban pb-IF4dUHY_Mw==",
+        "timestamp": "2024-12-15 03:12:32"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!checkdata",
+        "timestamp": "2024-12-15 08:38:37"
+    },
+    {
+        "user_id": 932979337328726017,
+        "user_name": "prime_1900",
+        "command": "B!bancheck pb-IF4TUXc8KA",
+        "timestamp": "2024-12-15 08:39:46"
     }
 ]

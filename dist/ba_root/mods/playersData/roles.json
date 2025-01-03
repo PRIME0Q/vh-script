@@ -10,8 +10,8 @@
             "ALL"
         ],
         "ids": [
-            "pb-IF4BUlQBJw==",
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-IF4CUmEDNQ==",
+            "pb-IF4OUm9dFg=="
         ]
     },
     "co-owner": {
@@ -24,9 +24,7 @@
         "commands": [
             "ALL"
         ],
-        "ids": [
-            "pb-IF4BUlQBJw=="
-        ]
+        "ids": []
     },
     "leadstaff": {
         "tag": "\\d\u029f\u1d07\u1d00\u1d05s\u1d1b\u1d00\u0493\u0493\\d",
@@ -83,9 +81,21 @@
             "createrole",
             "ban",
             "addcmd",
-            "ALL"
+            "acl",
+            "unban",
+            "removerole",
+            "getroles",
+            "tint",
+            "recents",
+            "effect",
+            "customtag",
+            "removeeffect",
+            "pme"
         ],
-        "ids": []
+        "ids": [
+            "pb-IF4OUW0iIw==",
+            "pb-IF4RUXkhIQ=="
+        ]
     },
     "moderator": {
         "tag": "\\f\u1d0d\u1d0f\u1d05\u1d07\u0280\u1d00\u1d1b\u1d0f\u0280\\f",
@@ -138,15 +148,12 @@
             "end",
             "remove",
             "gp",
-            "addrole",
-            "createrole",
             "ban",
-            "addcmd",
             "icy",
-            "ALL"
+            "unban"
         ],
         "ids": [
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-IF4OUW0iIw=="
         ]
     },
     "cs": {
@@ -200,17 +207,22 @@
             "end",
             "remove",
             "gp",
-            "ban",
             "reflections",
             "customeffect",
             "customtag",
             "rm",
-            "addcmd",
-            "removecmd",
             "removetag",
-            "playlist"
+            "playlist",
+            "effect",
+            "recents",
+            "removeeffect",
+            "pme",
+            "restart"
         ],
-        "ids": []
+        "ids": [
+            "pb-IF4OUW0iIw==",
+            "pb-IF4SURkpAA=="
+        ]
     },
     "tcs": {
         "tag": "\u2728T-COMPLAINT-STAFF\u2728",
@@ -263,7 +275,6 @@
             "end",
             "remove",
             "gp",
-            "ban",
             "reflections"
         ],
         "ids": []
@@ -385,7 +396,10 @@
             "playsound",
             "ooh"
         ],
-        "ids": []
+        "ids": [
+            "pb-IF5TUxktCw==",
+            "pb-IF4MUnosDw=="
+        ]
     },
     "pros": {
         "tag": "\u1d18\u0280\u1d0fs",
@@ -406,11 +420,11 @@
         ],
         "commands": [],
         "ids": [
-            "pb-IF40UEwoPA==",
-            "pb-IF4FUkIOFg==",
-            "pb-IF4UU2ldEg==",
-            "pb-IF4KUBQFJA==",
-            "pb-IF4GUEFaJg=="
+            "pb-IF5TUxktCw==",
+            "pb-IF4MUnosDw==",
+            "pb-JiNJARBfVUtGVV5AGE5VVVVDGEVaQlFH",
+            "pb-IF4uU1EhVA==",
+            "pb-IF4QUXNeXA=="
         ]
     },
     "bypass-warn": {
