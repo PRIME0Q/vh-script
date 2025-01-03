@@ -283,7 +283,7 @@ class textonmap:
                         'h_attach': 'center',
                         'h_align': 'center',
                         'v_attach':'top',
-                        'position':(400,-62),
+                        'position':(400,-37),
                         'color':(1,1,1)})      
         ba.animate_array(
              node,
