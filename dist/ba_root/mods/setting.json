@@ -48,7 +48,7 @@
     },
     "textonmap": {
         "top watermark": "",
-        "bottom left watermark": "\n≿━━━━━━━━━━━━༺❀༻━━━━━━━━━━━━≾\n\n\n≿━━━━━━━━━━━━༺❀༻━━━━━━━━━━━━≾\n",
+        "bottom left watermark": "\n____________________________________\n\n\n____________________________________\n",
         "center highlights": {
             "enable": false,
             "color": [
@@ -58,55 +58,55 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 🥀𝐓𝐀𝐌𝐈𝐋 𝐑𝐎𝐂𝐊𝐄𝐑𝐒🥂\ue048",
-                "\ue043𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐒𝐞𝐫𝐯𝐞𝐫 𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐒𝐭𝐚𝐭𝐬 𝐁𝐮𝐭𝐭𝐨𝐧:)\ue043",
-                "\ue048𝐓𝐘𝐏𝐄 (/𝐯𝐩) 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐕𝐎𝐓𝐈𝐍𝐆 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓\ue048",
-                "\ue048𝐓𝐘𝐏𝐄 (/𝐚𝐜𝐥) 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐀𝐃𝐌𝐈𝐍 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒\ue048",
-                "\ue048𝐓𝐘𝐏𝐄 (/𝐜𝐨𝐢𝐧𝐡𝐞𝐥𝐩) 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐇𝐎𝐖 𝐓𝐎 𝐁𝐔𝐘 𝐄𝐅𝐅𝐄𝐂𝐓𝐒 𝐀𝐍𝐃 𝐌𝐀𝐍𝐘 𝐌𝐎𝐑𝐄..\ue048",
-                "\ue048𝐓𝐘𝐏𝐄 (/𝐯𝐜𝐥) 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐕𝐈𝐏 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒\ue048",
-                "\ue043𝐓𝐘𝐏𝐄 𝐄𝐍𝐃 𝐓𝐎 𝐒𝐓𝐀𝐑𝐓 𝐄𝐍𝐃 𝐕𝐎𝐓𝐄\ue043"
-                "\ue046𝐒𝐓𝐀𝐑𝐓 𝐌𝐒𝐆 𝐖𝐈𝐓𝐇 𝐏𝐑𝐄𝐅𝐈𝐗 .(𝐝𝐨𝐭) 𝐓𝐎 𝐒𝐄𝐍𝐃 𝐈𝐍 𝐆𝐀𝐌𝐄 𝐏𝐎𝐏𝐔𝐏 𝐌𝐒𝐆\ue046",
-                "\ue048𝐓𝐘𝐏𝐄 𝐍𝐕 𝐓𝐎 𝐒𝐓𝐀𝐑𝐓 𝐍𝐕 𝐕𝐎𝐓𝐄\ue048",
-                "\ue048𝐓𝐘𝐏𝐄 (/𝐯𝐩) 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐕𝐎𝐓𝐈𝐍𝐆 𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓\ue048",
-                "\ue043𝐓𝐘𝐏𝐄 (/𝐜𝐬) 𝐓𝐎 𝐅𝐈𝐍𝐃 𝐎𝐔𝐓 𝐇𝐎𝐖 𝐓𝐎 𝐂𝐎𝐌𝐏𝐋𝐀𝐈𝐍𝐓 𝐈𝐍 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐒𝐄𝐑𝐕𝐄𝐑 𝐅𝐑𝐎𝐌 𝐆𝐀𝐌𝐄",
-                "\ue043𝐓𝐘𝐏𝐄 (/𝐝𝐜𝐥𝐢𝐧𝐤) 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐇𝐎𝐖 𝐓𝐎 𝐋𝐈𝐍𝐊 𝐏𝐁𝐈𝐃 𝐓𝐎 𝐃𝐈𝐒𝐂𝐎𝐑𝐃-𝐈𝐃 & 𝐆𝐄𝐓 𝐑𝐄𝐖𝐀𝐑𝐃𝐬",
-                "\ue049𝐒𝐓𝐀𝐑𝐓 𝐌𝐒𝐆 𝐖𝐈𝐓𝐇 𝐏𝐑𝐄𝐅𝐈𝐗 ,(𝐜𝐨𝐦𝐦𝐚) 𝐓𝐎 𝐒𝐄𝐍𝐃 𝐌𝐒𝐆 𝐓𝐎 𝐓𝐄𝐀𝐌𝐌𝐀𝐓𝐄𝐒\ue049",
-                "\ue043𝐏𝐋𝐄𝐀𝐒𝐄 𝐑𝐄𝐒𝐏𝐄𝐂𝐓 𝐎𝐓𝐇𝐄𝐑 𝐏𝐋𝐀𝐘𝐄𝐑𝐒\ue043",
-                "\ue049𝐉𝐎𝐈𝐍 𝐎𝐔𝐑 𝐃𝐈𝐒𝐂𝐎𝐑𝐃 𝐒𝐄𝐑𝐕𝐄𝐑 𝐁𝐘 𝐂𝐋𝐈𝐂𝐊𝐈𝐍𝐆 𝐎𝐍 𝐒𝐓𝐀𝐓𝐒 𝐁𝐔𝐓𝐓𝐎𝐍\ue049",
-                "\ue046𝐃𝐎 𝐍𝐎𝐓 𝐓𝐄𝐀𝐌𝐈𝐍𝐆 𝐖𝐈𝐓𝐇 𝐀𝐍𝐘 𝐏𝐋𝐀𝐘𝐄𝐑 𝐎𝐑 𝐘𝐎𝐔 𝐖𝐈𝐋𝐋 𝐁𝐄 𝐏𝐔𝐍𝐈𝐒𝐇𝐄𝐃\ue046",
-                "\ue049𝐓𝐘𝐏𝐄 (/𝐬𝐡𝐨𝐩 𝐞𝐟𝐟𝐞𝐜𝐭𝐬) 𝐓𝐎 𝐊𝐍𝐎𝐖 𝐀𝐕𝐈𝐋𝐀𝐁𝐋𝐄 𝐄𝐅𝐅𝐄𝐂𝐓𝐒\ue046"
+                "\ue048Welcome to Tamil Rockers\ue048",
+                "\ue043JOIN OUR DISCORD Through STATS:)\ue043",
+                "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
+                "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
+                "\ue048TYPE (/coinhelp) TO KNOW HOW TO BUY EFFECTS AND MANY MORE..\ue048",
+                "\ue048TYPE (/vcl) TO KNOW VIP COMMANDS\ue048",
+                "\ue043TYPE END TO START END VOTE\ue043",
+                "\ue046START MSG WITH PREFIX .(dot) TO SEND IN GAME POPUP MSG\ue046",
+                "\ue048TYPE NV TO START NV VOTE\ue048",
+                "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
+                "\ue043TYPE (/cs) TO FIND OUT HOW TO COMPLAINT IN DISCORD SERVER FROM GAME",
+                "\ue043TYPE (/dclink) TO KNOW HOW TO LINK PBID TO DISCORD-ID & GET REWARDs",
+                "\ue049START MSG WITH PREFIX ,(comma) TO SEND MSG TO TEAMMATES\ue049",
+                "\ue043PLEASE RESPECT OTHER PLAYERS\ue043",
+                "\ue049JOIN OUR DISCORD SERVER BY CLICKING ON STATS BUTTON\ue049",
+                "\ue046DO NOT TEAMING WITH ANY PLAYER OR YOU WILL BE PUNISHED\ue046",
+                "\ue046TYPE (/shop effects) TO KNOW AVILABLE EFFECTS\ue046"
             ]
         }
     },
     "ScoreScreenAnnouncement": {
         "enable": true,
         "msg": [
-            "𝐞𝐧𝐣𝐨𝐲 𝐡𝐞𝐫𝐞 :)",
-            "𝐜𝐥𝐢𝐜𝐤 𝐬𝐭𝐚𝐭𝐬 𝐛𝐮𝐭𝐭𝐨𝐧 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐝𝐢𝐬𝐜𝐨𝐫𝐝",
-            "𝐭𝐲𝐩𝐞 (/𝐯𝐩) 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐯𝐨𝐭𝐢𝐧𝐠 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-            "𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐧𝐞𝐰 𝐦𝐨𝐝𝐬 𝐟𝐫𝐨𝐦 𝐝𝐢𝐬𝐜𝐨𝐫𝐝",
-            "𝐮𝐬𝐞 /𝐩𝐢𝐧𝐠 𝐚𝐥𝐥 𝐭𝐨 𝐜𝐡𝐞𝐜𝐤 𝐨𝐭𝐡𝐞𝐫𝐬 𝐩𝐢𝐧𝐠.",
-            "𝐬𝐭𝐚𝐫𝐭 𝐦𝐬𝐠 𝐰𝐢𝐭𝐡 𝐩𝐫𝐞𝐟𝐢𝐱 ,(𝐜𝐨𝐦𝐦𝐚) 𝐭𝐨 𝐬𝐞𝐧𝐝 𝐦𝐬𝐠 𝐭𝐨 𝐭𝐞𝐚𝐦𝐦𝐚𝐭𝐞𝐬",
-            "𝐭𝐲𝐩𝐞 (/𝐜𝐬) 𝐭𝐨 𝐟𝐢𝐧𝐝 𝐨𝐮𝐭 𝐡𝐨𝐰 𝐭𝐨 𝐜𝐨𝐦𝐩𝐥𝐚𝐢𝐧𝐭 𝐢𝐧 𝐝𝐢𝐬𝐜𝐨𝐫𝐝 𝐬𝐞𝐫𝐯𝐞𝐫 𝐟𝐫𝐨𝐦 𝐠𝐚𝐦𝐞",
-            "𝐭𝐲𝐩𝐞 (/𝐜𝐨𝐢𝐧𝐡𝐞𝐥𝐩) 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐡𝐨𝐰 𝐭𝐨 𝐛𝐮𝐲 𝐞𝐟𝐟𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐦𝐚𝐧𝐲 𝐦𝐨𝐫𝐞..",
-            "𝐭𝐲𝐩𝐞 (/𝐝𝐜𝐥𝐢𝐧𝐤) 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐡𝐨𝐰 𝐭𝐨 𝐥𝐢𝐧𝐤 𝐩𝐛𝐢𝐝 𝐭𝐨 𝐝𝐢𝐬𝐜𝐨𝐫𝐝-𝐢𝐝 & 𝐠𝐞𝐭 𝐫𝐞𝐰𝐚𝐫𝐝𝐬",
-            "𝐣𝐨𝐢𝐧 𝐨𝐮𝐫 𝐝𝐢𝐬𝐜𝐨𝐫𝐝 :)",
-            "𝐭𝐲𝐩𝐞 𝐯𝐩 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐯𝐨𝐭𝐢𝐧𝐠 𝐩𝐥𝐚𝐲𝐥𝐢𝐬𝐭",
-            "𝐩𝐥𝐞𝐚𝐬𝐞 𝐫𝐞𝐬𝐩𝐞𝐜𝐭 𝐨𝐭𝐡𝐞𝐫 𝐩𝐥𝐚𝐲𝐞𝐫𝐬 :)",
-            "𝐬𝐭𝐚𝐫𝐭 𝐦𝐬𝐠 𝐰𝐢𝐭𝐡 𝐩𝐫𝐞𝐟𝐢𝐱 .(𝐝𝐨𝐭) 𝐭𝐨 𝐬𝐞𝐧𝐝 𝐢𝐧 𝐠𝐚𝐦𝐞 𝐩𝐨𝐩𝐮𝐩 𝐦𝐬𝐠",
-            "𝐜𝐥𝐢𝐜𝐤 𝐬𝐭𝐚𝐭𝐬 𝐛𝐮𝐭𝐭𝐨𝐧 𝐭𝐨 𝐣𝐨𝐢𝐧 𝐝𝐢𝐬𝐜𝐨𝐫𝐝 𝐬𝐞𝐫𝐯𝐞𝐫",
-            "𝐠𝐞𝐭 𝐧𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐰𝐡𝐞𝐧 𝐟𝐫𝐢𝐞𝐧𝐝𝐬 𝐣𝐨𝐢𝐧 𝐭𝐡𝐢𝐬 𝐬𝐞𝐫𝐯𝐞𝐫, 𝐜𝐡𝐞𝐜𝐤𝐨𝐮𝐭 𝐥𝐞𝐚𝐝𝐞𝐫𝐛𝐨𝐚𝐫𝐝",
-            "𝐚𝐛𝐮𝐬𝐞𝐫𝐬, 𝐬𝐩𝐚𝐦𝐦𝐞𝐫𝐬 𝐰𝐢𝐥𝐥 𝐠𝐞𝐭 𝐚𝐮𝐭𝐨 𝐛𝐚𝐧",
-            "𝐝𝐨𝐞𝐬𝐧𝐭 𝐦𝐚𝐭𝐭𝐞𝐫 𝐰𝐡𝐨 𝐬𝐭𝐚𝐫𝐭𝐬 𝐟𝐢𝐠𝐡𝐭, 𝐢𝐟 𝐲𝐨𝐮 𝐚𝐛𝐮𝐬𝐞- 𝐲𝐨𝐮 𝐰𝐢𝐥𝐥 𝐠𝐞𝐭 𝐛𝐚𝐧 𝐭𝐨𝐨.",
-            "𝐭𝐲𝐩𝐞 (/𝐬𝐡𝐨𝐩 𝐞𝐟𝐟𝐞𝐜𝐭𝐬) 𝐭𝐨 𝐤𝐧𝐨𝐰 𝐚𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐞𝐟𝐟𝐞𝐜𝐭𝐬"
+            "enjoy here :)",
+            "click stats button to join discord",
+            "type (/vp) to know voting playlist",
+            "download new mods from discord",
+            "use /ping all to check others ping.",
+            "start msg with prefix ,(comma) to send msg to teammates",
+            "type (/cs) to find out how to complaint in discord server from game",
+            "type (/coinhelp) to know how to buy effects and many more..",
+            "type (/dclink) to know how to link pbid to discord-id & get rewards",
+            "join our discord :)",
+            "type vp to know voting playlist",
+            "please respect other players :)",
+            "start msg with prefix .(dot) to send in game popup msg",
+            "click stats button to join discord server",
+            "get notification when friends join this server, checkout leaderboard",
+            "abusers, spammers will get auto ban",
+            "doesnt matter who starts fight, if you abuse- you will get ban too.",
+            "type (/shop effects) to know available effects"
         ]
     },
     "TopMapText": {
         "enable": true,
         "msg": [
-            "\ue062𝐆𝐓 & ᎷᏒ.ᏢᏒ𝖎ᎷᎬ\ue062",
-            "\ue04b🥀||𝐓𝐀𝐌𝐈𝐋 𝐑𝐎𝐂𝐊𝐄𝐑𝐒||🥂\ue04b",
-            "\ue048ミ★〘✮〙༎ Ꮲ 𝕽۝𝐕𝕴𝐍 𝕾𝖖𝖚𝖆𝖉༽࿐\ue048"
+            "\ue062GT and PRIME\ue062",
+            "\ue04bTAMIL  ROCKERS\ue04b",
+            "\ue048Join Discord\ue048"
         ]
     },
     "statsResetAfterDays": 45,
@@ -302,7 +302,7 @@
     "allowInGameDm": true,
     "newResultBoard": true,
     "HostDeviceName": "v1.4",
-    "HostName": "𝐏𝐒-v2.0",
+    "HostName": "PS-v2.0",
     "ShowKickVoteStarterName": true,
     "autoTeamBalance": true,
     "KickVoteMsgType": "chat",
